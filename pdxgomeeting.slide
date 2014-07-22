@@ -1,14 +1,16 @@
 PDX Go
+Rose City Gophers!
+22 Jul 2014
+Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo
 
 Josh Roppo
 Portland OR
 @joshroppo
 joshroppo@gmail.com
-https://twitter.com/pdxgolang
-
-Rose City Gophers!
+https://github.com/Ropes
 
 * Welcome to PDXGo!
+- and to Portland if visiting for OSCon!
 
 .image pdxgo/pdxgo.png
 
@@ -17,19 +19,22 @@ Rose City Gophers!
 .link https://twitter.com/pdxgolang @pdxgolang
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
-
+freenode: #pdxgo
 .image pdxgo/pdxgosmaller.png
 
 * Sponsors
 
 - Google 
-  Pizza and Beer!
+Pizza and Beer!
+.image pdxgo/fiberbunny.jpeg 150 270
 - Esri R&D
-  Office Space!
+Office Space!
+.image pdxgo/esri.png 200 200 
 
 * Personal thanks to everyone who helped get the group rolling again!
 - Ryan Arana
 - Schmichael
+- Positive Vibes!
 
 * Schedule
 
@@ -40,5 +45,5 @@ Rose City Gophers!
  Kubernetes Project, Managing Container Clusters at Scale
 
 
-* Thank you
 .image pdxgo/pdxgosmaller.png
+
