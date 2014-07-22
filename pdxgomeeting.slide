@@ -5,9 +5,10 @@ Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo
 
 Josh Roppo
 Portland OR
-@joshroppo
+@pdxgolang
+pdxgolang@gmail.com
+https://groups.google.com/forum/#!forum/pdxgo
 joshroppo@gmail.com
-https://github.com/Ropes
 
 * Welcome to PDXGo!
 - and to Portland if visiting for OSCon!
@@ -20,9 +21,10 @@ https://github.com/Ropes
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 freenode: #pdxgo
-.image pdxgo/pdxgosmaller.png
 
-* Sponsors
+.image pdxgo/pdxgosmaller.png 346 300
+
+* Thank you Sponsors!
 
 - Google: Pizza and Beer!
 
@@ -33,9 +35,10 @@ freenode: #pdxgo
 .image pdxgo/esri.png 200 200 
 
 * Personal thanks to everyone who helped get the group rolling again!
-- Ryan Arana
 - Schmichael
-- Positive Vibes!
+- Ryan Arana
+- Positive vibes and ideas from many others!
+- Kelsey Hightower -> Francesc Campoy Flores -> Tonight!
 
 * Schedule
 
@@ -45,6 +48,7 @@ freenode: #pdxgo
 .link https://twitter.com/kelseyhightower Kelsey Hightower
  Kubernetes Project, Managing Container Clusters at Scale
 
+Q&A / Open Discussion
 
-.image pdxgo/pdxgosmaller.png
+.image pdxgo/pdxgosmaller.png 289 250
 
