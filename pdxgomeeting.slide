@@ -1,22 +1,44 @@
-PDXGo
+PDX Go
+
+Josh Roppo
+Portland OR
+@joshroppo
+joshroppo@gmail.com
+https://twitter.com/pdxgolang
+
+Rose City Gophers!
 
 * Welcome to PDXGo!
 
 .image pdxgo/pdxgo.png
 
-* Follow
+* Follow for future events
 
 .link https://twitter.com/pdxgolang @pdxgolang
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
-.link https://groups.google.com/forum/#!forum/pdxgo Google Group
+.link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 
 .image pdxgo/pdxgosmaller.png
 
 * Sponsors
 
--Google
+- Google 
+  Pizza and Beer!
+- Esri R&D
+  Office Space!
 
-* Thanks to our sponsors and everyone who helped the event start!
+* Personal thanks to everyone who helped get the group rolling again!
 - Ryan Arana
 - Schmichael
 
+* Schedule
+
+.link https://twitter.com/francesc Francesc Campoy Flores
+ Audience determined talk! (Go Best Practices, Introduction to Go from [Python, Java], etc)
+
+.link https://twitter.com/kelseyhightower Kelsey Hightower
+ Kubernetes Project, Managing Container Clusters at Scale
+
+
+* Thank you
+.image pdxgo/pdxgosmaller.png
