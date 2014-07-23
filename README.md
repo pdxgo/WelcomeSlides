@@ -1,4 +1,4 @@
-PDXGo-Slides
-============
+WelcomeSlides
+=============
 
-Slides for the PDXGo group containing information to be MC'd at events.
+Introductory present slides for PDXGo talk nights
