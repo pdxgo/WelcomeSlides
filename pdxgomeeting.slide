@@ -1,9 +1,9 @@
 PDX Go
 Talk Night!
-22 Jul 2014
+19 Aug 2014
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
-Josh Roppo
+PDX Go
 Portland OR
 @pdxgolang
 pdxgolang@gmail.com
@@ -11,7 +11,6 @@ https://groups.google.com/forum/#!forum/pdxgo
 joshroppo@gmail.com
 
 * Welcome to PDXGo!
-- and to Portland if visiting for OSCon!
 
 .image pdxgo/pdxgo.png
 
@@ -26,29 +25,28 @@ freenode: #pdxgo
 
 * Thank you Sponsors!
 
-- Google: Pizza and Beer!
-
-.image pdxgo/fiberbunny.jpeg 150 270
-
 - Esri R&D: Office Space!
 
 .image pdxgo/esri.png 200 200 
 
-* Personal thanks to everyone who helped get the group rolling again!
-- Schmichael
-- Ryan Arana
-- Positive vibes and ideas from many others!
-- Kelsey Hightower -> Francesc Campoy Flores -> Tonight!
+* Talk Night Timing
+Apologies for the Calagator conflicts.. 
+
+.image pdxgo/CalagatorRegret.png 450 433
+
+Thoughts on good meeting dates?  
 
 * Schedule
 
-.link https://twitter.com/francesc Francesc Campoy Flores
- Audience determined talk! (Go Best Practices, Introduction to Go from [Python, Java], etc)
+Geobin: How Esri R&D uses Go for displaying geospatial data.
+.link https://twitter.com/aranasaurus Ryan Arana
+.link https://twitter.com/hsoj Josh Yaganeh
+.link https://twitter.com/FowlerCourt Court Fowler
+.link http://ngoldman.me/ Neal Goldman
 
-.link https://twitter.com/kelseyhightower Kelsey Hightower
- Kubernetes Project, Managing Container Clusters at Scale
+Reverse Q&A / Open Discussion
 
-Q&A / Open Discussion
+.link http://is.gd/pdxgorqa
 
 .image pdxgo/pdxgosmaller.png 289 250
 
