@@ -12,7 +12,7 @@ joshroppo@gmail.com
 
 * Welcome to PDXGo!
 
-.image pdxgo/pdxgo.png
+.image pdxgo/PDXGO.svg 600 520
 
 * Follow for future events
 
@@ -21,7 +21,7 @@ joshroppo@gmail.com
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 freenode: #pdxgo
 
-.image pdxgo/pdxgosmaller.png 346 300
+.image pdxgo/PDXGO.svg 346 300
 
 * Thank you Sponsors!
 
@@ -48,6 +48,4 @@ Geobin: How Esri R&D uses Go for displaying geospatial data.
 Reverse Q&A / Open Discussion
 
 .link http://is.gd/pdxgorqa
-
-.image pdxgo/pdxgosmaller.png 200 174 
 
