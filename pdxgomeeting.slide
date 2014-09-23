@@ -11,44 +11,35 @@ https://groups.google.com/forum/#!forum/pdxgo
 joshroppo@gmail.com
 
 * Welcome to PDXGo!
-- and to Portland if visiting for OSCon!
 
-.image pdxgo/pdxgo.png
+.image pdxgo/PDXGO.svg
 
 * Follow for future events
 
-.link https://twitter.com/pdxgolang @pdxgolang
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
-.link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 freenode: #pdxgo
+.link https://twitter.com/pdxgolang @pdxgolang
+.link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 
-.image pdxgo/pdxgosmaller.png 346 300
+.image pdxgo/PDXGO.svg 346 300
 
 * Thank you Sponsors!
 
-- Google: Pizza and Beer!
+- Culture Foundry: Pizza and Beer!
 
-.image pdxgo/fiberbunny.jpeg 150 270
+.image pdxgo/culturefoundry.jpeg 150 150
 
 - Esri R&D: Office Space!
 
 .image pdxgo/esri.png 200 200 
 
-* Personal thanks to everyone who helped get the group rolling again!
-- Schmichael
-- Ryan Arana
-- Positive vibes and ideas from many others!
-- Kelsey Hightower -> Francesc Campoy Flores -> Tonight!
-
 * Schedule
 
-.link https://twitter.com/francesc Francesc Campoy Flores
- Audience determined talk! (Go Best Practices, Introduction to Go from [Python, Java], etc)
+.link https://twitter.com/perrybirch Perry Birch
+Coordinating Concurrency with Select: An alternative pattern to Mutexes
 
-.link https://twitter.com/kelseyhightower Kelsey Hightower
- Kubernetes Project, Managing Container Clusters at Scale
 
 Q&A / Open Discussion
 
-.image pdxgo/pdxgosmaller.png 289 250
+.image pdxgo/PDXGO.svg 289 250
 
