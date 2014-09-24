@@ -1,6 +1,6 @@
 PDX Go
 Talk Night!
-22 Jul 2014
+22 Sep 2014
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 Josh Roppo
@@ -22,6 +22,7 @@ freenode: #pdxgo
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 
 .image pdxgo/PDXGO.svg 346 300
+Talk night open for talks!
 
 * Thank you Sponsors!
 
@@ -42,4 +43,6 @@ Coordinating Concurrency with Select: An alternative pattern to Mutexes
 Q&A / Open Discussion
 
 .image pdxgo/PDXGO.svg 289 250
+
+Bailey's?
 
