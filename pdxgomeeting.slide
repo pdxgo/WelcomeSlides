@@ -1,6 +1,6 @@
 PDX Go
 Talk Night!
-19 Aug 2014
+22 Sep 2014
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -16,37 +16,32 @@ joshroppo@gmail.com
 
 * Follow for future events
 
-.link https://twitter.com/pdxgolang @pdxgolang
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
-.link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 freenode: #pdxgo
+.link https://twitter.com/pdxgolang @pdxgolang
+.link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 
 .image pdxgo/PDXGO.svg 346 300
+Talk night open for talks!
 
 * Thank you Sponsors!
+
+- Culture Foundry: Pizza and Beer!
+
+.image pdxgo/culturefoundry.jpeg 150 150
 
 - Esri R&D: Office Space!
 
 .image pdxgo/esri.png 200 200 
 
-* Talk Night Timing
-Apologies for the Calagator conflicts.. 
+* Schedule
 
-.image pdxgo/CalagatorRegret.png 450 433
-
-Thoughts on good meeting dates?  
-
-* Talk Night Schedule
-
-Geobin: Inspect HTTP Requests with Geographic Data
-
-.link https://twitter.com/aranasaurus Ryan Arana
-.link https://twitter.com/hsoj Josh Yaganeh
-.link https://twitter.com/FowlerCourt Court Fowler
-.link http://ngoldman.me/ Neal Goldman
+.link https://twitter.com/perrybirch Perry Birch
+Coordinating Concurrency with Select: An alternative pattern to Mutexes
 
 Reverse Q&A / Open Discussion
 
 .link http://is.gd/pdxgorqa
+.image pdxgo/PDXGO.svg 289 250
 
 Bailey's Taproom?
