@@ -12,7 +12,13 @@ joshroppo@gmail.com
 
 * Welcome to PDXGo!
 
-.image pdxgo/PDXGO.svg 600 520
+.image pdxgo/PDXGO.svg 560 500
+
+* Apologies for Absense
+- Conflicting schedules and general business
+.image pdxgo/golantern.jpg 300 300
+- Second Tuesdays for 2015
+We'll be doing something!
 
 * Follow for future events
 
@@ -24,24 +30,37 @@ freenode: #pdxgo
 .image pdxgo/PDXGO.svg 346 300
 Talk night open for talks!
 
+* Anouncments
+
+.link https://gophergala.com Gopher Gala: January 23-25
+.image pdxgo/fancygopher.jpg 300 300
+.caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
+
+
+* Code of Conduct
+.link https://github.com/pdxgo/codeofconduct/blob/master/citizen_code_of_conduct.md PDXGo CoC
+- Don't be a jerk!
+
+
 * Thank you Sponsors!
-
-- Culture Foundry: Pizza and Beer!
-
-.image pdxgo/culturefoundry.jpeg 150 150
 
 - Esri R&D: Office Space!
 
 .image pdxgo/esri.png 200 200 
 
+- Lytics: Meetup subscription
+.image pdxgo/lytics.png 200 350
+
+
 * Schedule
 
-.link https://twitter.com/perrybirch Perry Birch
-Coordinating Concurrency with Select: An alternative pattern to Mutexes
+.link https://twitter.com/schmichael Michael "Schmichael" Schurter
+- Metafora: Distrubted Task Mangement using etcd
 
-Reverse Q&A / Open Discussion
-
+- Reverse Q&A / Open Discussion
 .link http://is.gd/pdxgorqa
+
 .image pdxgo/PDXGO.svg 289 250
 
 Bailey's Taproom?
+
