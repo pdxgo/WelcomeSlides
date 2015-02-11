@@ -14,11 +14,8 @@ joshroppo@gmail.com
 
 .image pdxgo/PDXGO.svg 560 500
 
-* Apologies for Absense
-- Conflicting schedules and general business
-.image pdxgo/golantern.jpg 300 300
-- Second Tuesdays for 2015
-We'll be doing something!
+* Second Tuesdays for 2015
+* Go workhop on Tursday Feb 12th
 
 * Follow for future events
 
@@ -28,10 +25,12 @@ freenode: #pdxgo
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
 
 .image pdxgo/PDXGO.svg 346 300
-Talk night open for talks!
 
 * Anouncments
 
+Talk night open for talks!
+- No need for long or in depth
+Anyone like community organizing?
 .link https://gophergala.com Gopher Gala: January 23-25
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
@@ -54,10 +53,12 @@ Talk night open for talks!
 
 * Schedule
 
-.link https://twitter.com/schmichael Michael "Schmichael" Schurter
-- Metafora: Distrubted Task Mangement using etcd
+.link https://twitter.com/kelseyhightower Kelsey Hightower
+.link https://github.com/coreos/rocket Rocket
 
-- Reverse Q&A / Open Discussion
+- Rocket is a new container runtime, designed for composability, security, and speed. 
+
+Reverse Q&A / Open Discussion
 .link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
