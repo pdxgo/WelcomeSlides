@@ -1,6 +1,6 @@
 PDX Go
-Talk Night!
-22 Sep 2014
+Discussion Night
+10 Mar 2015
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -15,7 +15,6 @@ joshroppo@gmail.com
 .image pdxgo/PDXGO.svg 560 500
 
 * Second Tuesdays for 2015
-* Go workhop on Tursday Feb 12th
 
 * Follow for future events
 
@@ -26,15 +25,6 @@ freenode: #pdxgo
 
 .image pdxgo/PDXGO.svg 346 300
 
-* Anouncments
-
-Talk night open for talks!
-- No need for long or in depth
-Anyone like community organizing?
-.link https://gophergala.com Gopher Gala: January 23-25
-.image pdxgo/fancygopher.jpg 300 300
-.caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
-
 
 * Code of Conduct
 .link https://github.com/pdxgo/codeofconduct/blob/master/citizen_code_of_conduct.md PDXGo CoC
@@ -43,20 +33,33 @@ Anyone like community organizing?
 
 * Thank you Sponsors!
 
-- Esri R&D: Office Space!
-
-.image pdxgo/esri.png 200 200 
+- Culture Foundary: Pizza!
+.image pdxgo/culturefoundry.png
 
 - Lytics: Meetup subscription
 .image pdxgo/lytics.png 200 350
 
 
+* Anouncments
+
+.link http://calagator.org/events/1250468008 Docker Birthday Hackathon
+- Open Source Mentors Wanted
+
+Anyone like community organizing?
+- The bar is low!
+#pdxgoorg
+
+Request for Talks!
+.link https://gophergala.com Gopher Gala: January 23-25
+
+.image pdxgo/fancygopher.jpg 300 300
+.caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
+
+
 * Schedule
 
-.link https://twitter.com/kelseyhightower Kelsey Hightower
-.link https://github.com/coreos/rocket Rocket
+.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
 
-- Rocket is a new container runtime, designed for composability, security, and speed. 
 
 Reverse Q&A / Open Discussion
 .link http://is.gd/pdxgorqa
