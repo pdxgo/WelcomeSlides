@@ -1,5 +1,5 @@
 PDX Go
-Discussion Night
+Lightning Talk Night
 10 Mar 2015
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
@@ -16,7 +16,7 @@ joshroppo@gmail.com
 
 * Second Tuesdays for 2015
 
-* Follow for future events
+* Connections
 
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
 freenode: #pdxgo
@@ -36,21 +36,23 @@ freenode: #pdxgo
 - Culture Foundary: Pizza!
 .image pdxgo/culturefoundry.png
 
+- Esri R&D: Location!
+.image pdxgo/esri.png
+
 - Lytics: Meetup subscription
-.image pdxgo/lytics.png 200 350
+.image pdxgo/lytics.png 100 175
 
 
 * Anouncments
 
-.link http://calagator.org/events/1250468008 Docker Birthday Hackathon
-- Open Source Mentors Wanted
+Gopher Interest Poll
+.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
 
 Anyone like community organizing?
 - The bar is low!
 #pdxgoorg
 
-Request for Talks!
-.link https://gophergala.com Gopher Gala: January 23-25
+Requesting Talks!
 
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
@@ -58,13 +60,14 @@ Request for Talks!
 
 * Schedule
 
-.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
+Hello, talk headcount
 
+Lightning Talks
 
 Reverse Q&A / Open Discussion
 .link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
 
-Bailey's Taproom?
+Bailey's (Upper Lip) Taproom?
 
