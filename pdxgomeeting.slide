@@ -1,6 +1,6 @@
 PDX Go
 Lightning Talk Night
-10 Mar 2015
+12 May 2015
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -14,7 +14,13 @@ joshroppo@gmail.com
 
 .image pdxgo/PDXGO.svg 560 500
 
-* Second Tuesdays for 2015
+Curious Gophers in Portland Oregon
+
+* Talk Night Second Tuesdays for 2015
+
+Hack night(new) 4th Mondays
+
+- May 25th for this month
 
 * Connections
 
@@ -29,11 +35,26 @@ freenode: #pdxgo
 * Code of Conduct
 .link https://github.com/pdxgo/codeofconduct/blob/master/citizen_code_of_conduct.md PDXGo CoC
 - Don't be a jerk!
+- Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions towards others.
 
+* Anouncments
+
+Gopher Interest Poll
+
+.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
+
+Anyone like community organizing?
+
+#pdxgoorg
+
+Requesting Talks!
+
+.image pdxgo/fancygopher.jpg 300 300
+.caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
 
 * Thank you Sponsors!
 
-- Culture Foundary: Pizza!
+- Culture Foundary: Pizza and Drinks!
 .image pdxgo/culturefoundry.png
 
 - Esri R&D: Location!
@@ -42,29 +63,17 @@ freenode: #pdxgo
 - Lytics: Meetup subscription
 .image pdxgo/lytics.png 100 175
 
-
-* Anouncments
-
-Gopher Interest Poll
-.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
-
-Anyone like community organizing?
-- The bar is low!
-#pdxgoorg
-
-Requesting Talks!
-
-.image pdxgo/fancygopher.jpg 300 300
-.caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
-
-
 * Schedule
 
-Hello, talk headcount
+Greetings & Refreshments 
 
-Lightning Talks
+Ian Smith's Talk on 
 
-Reverse Q&A / Open Discussion
+.link http://seven5.github.io/ Seven5, a toolkit for building modern web applications with Go!
+
+
+Questions and Open Discussion til ~8PM
+
 .link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
