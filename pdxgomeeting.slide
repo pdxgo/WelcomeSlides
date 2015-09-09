@@ -44,16 +44,29 @@ freenode: #pdxgo
 
 * Anouncments
 
-TODO: OSCON Codes
-
 Anyone like community organizing?
-
-#pdxgoorg
 
 Requesting Talks!
 
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
+
+
+* OSCON!
+
+July 20-24th is O'Reilly's OSCON! O'Reilly wants Portland Gophers in attendance so they're sponsoring us with Expo hall access codes, some prizes to raffle off and a free all-sessions bronze ticket to a lucky gopher! We'll have ticket raffle at this month's talk night.
+
+This is going to be an exciting OSCON as Google's Kubernetes Project will be holding an 1.0 launch event! Next Tuesday:
+.link http://www.kuberneteslaunch.com/ Kubernetes Launch
+
+OSCON Discount Codes:
+
+PDXGO = 20% off OSCON registration
+PCEXPOPLUS = free exop hall plus pass
+USRG: For a discount on conferences such as OSCON, Strata, Velocity, Solid, Fluent, or Software Architecture use code.
+For O'Reilly (e)books and merchandise:
+PCBW: for 40% off most print and 50% off most ebooks and videos on shop.oreilly.com.
+
 
 * Thank you Sponsors!
 
@@ -70,9 +83,9 @@ Requesting Talks!
 
 Greetings & Refreshments 
 
-GopherCon Talk List
+GopherCon Talk List/Discussion
 
-Time Permitting Questions and Open Discussion til ~8PM
+Open Discussion til boredom 
 
 .link http://is.gd/pdxgorqa
 
@@ -81,4 +94,5 @@ Raffle OSCON Pass/Swag/Prizes?
 .image pdxgo/PDXGO.svg 289 250
 
 Bailey's (Upper Lip) Taproom?
+
 
