@@ -18,13 +18,8 @@ Curious Gophers in Portland Oregon
 
 * Talk Night Second Tuesdays for 2015
 
-Hack night(new) 4th Mondays
-- July 27th for this month: Summer interest?
-
-GopherCon! July 7-10
-
-OSCon July 20–24
-
+Hack night(newish) 4th Mondays
+- Sept 28th for this month
 
 * Channels 
 
@@ -32,6 +27,7 @@ OSCon July 20–24
 freenode: #pdxgo
 .link https://twitter.com/pdxgolang @pdxgolang
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
+Slack: Gophers  #portland
 
 .image pdxgo/PDXGO.svg 346 300
 
@@ -51,45 +47,28 @@ Requesting Talks!
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
 
-
-* OSCON!
-
-July 20-24th is O'Reilly's OSCON! O'Reilly wants Portland Gophers in attendance so they're sponsoring us with Expo hall access codes, some prizes to raffle off and a free all-sessions bronze ticket to a lucky gopher! We'll have ticket raffle at this month's talk night.
-
-This is going to be an exciting OSCON as Google's Kubernetes Project will be holding an 1.0 launch event! Next Tuesday:
-.link http://www.kuberneteslaunch.com/ Kubernetes Launch
-
-OSCON Discount Codes:
-
-PDXGO = 20% off OSCON registration
-PCEXPOPLUS = free exop hall plus pass
-USRG: For a discount on conferences such as OSCON, Strata, Velocity, Solid, Fluent, or Software Architecture use code.
-For O'Reilly (e)books and merchandise:
-PCBW: for 40% off most print and 50% off most ebooks and videos on shop.oreilly.com.
-
-
 * Thank you Sponsors!
 
 - Culture Foundry: Pizza and Drinks!
 .image pdxgo/culturefoundry.png
 
-- Esri R&D: Location!
-.image pdxgo/esri.png
-
-- Lytics: Meetup subscription
+- Lytics: Meetup subscription & Location
 .image pdxgo/lytics.png 100 175
+
+- Esri R&D: Usual Location
+.image pdxgo/esri.png
 
 * Schedule
 
 Greetings & Refreshments 
 
-GopherCon Talk List/Discussion
+Go Vendoring Tools and Updates by Daniel Theophanes
+
+Handling Go dependencies with vendoring has been a topic of this group's discussion multiple times, and with the proposed 1.5 /vendor directory the community is finally converging on a single standard. Daniel will be covering Go vendoring in general, the vendor-spec, and his own tool govendor!
 
 Open Discussion til boredom 
 
 .link http://is.gd/pdxgorqa
-
-Raffle OSCON Pass/Swag/Prizes?
 
 .image pdxgo/PDXGO.svg 289 250
 
