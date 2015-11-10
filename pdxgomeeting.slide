@@ -1,6 +1,6 @@
 PDX Go
 Talk Night
-14 Jul 2015
+09 Nov 2015
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -19,7 +19,7 @@ Curious Gophers in Portland Oregon
 * Talk Night Second Tuesdays for 2015
 
 Hack night(newish) 4th Mondays
-- Sept 28th for this month
+- the 23rd for this month
 
 * Channels 
 
@@ -33,12 +33,28 @@ Slack: Gophers  #portland
 
 
 * Code of Conduct
-.link https://github.com/pdxgo/codeofconduct/blob/master/citizen_code_of_conduct.md PDXGo CoC
-- Don't be a jerk!
-- Unacceptable behaviors include: intimidation, harassment, abuse, discrimination, derogatory or demeaning speech or actions towards others.
+.link https://github.com/pdxgo/codeofconduct PDXGo CoC now uses the official Golang code
 
+- Be friendly and welcoming
+- Be patient and respectful; be understanding of others
+- Be charitable: When we do disagree, try to understand why
+- Be thoughtful: Productive communication requires effort. Think about how your words will be interpreted
+- Avoid destructive behavior. eg: Snarking, Derailing conversation, Unconstructive criticism
+   - Insulting, demeaning, hateful, oppressive, exclusionary, or otherwise
+     hurtful remarks.
+   - Romantic or sexual commentary, remarks, or questions.
+   - Harassment (either in public or private; if someone asks you to stop
+     speaking to/at them, you must stop immediately)
+   - Flirting with offensive or sensitive issues
+   - “Microaggressions,” the smallactions that marginalize people in oppressed groups.
+- Don't just aim to be technically unimpeachable, aim to be your best self.
+   - If someone takes issue with something you said or did, resist the urge to
+     be defensive. Just stop doing what it was they complained about and
+     apologize.
 
 * Anouncments
+
+.link http://calagator.org/events/1250469294 Winter Coder Social December 15th
 
 Anyone like community organizing?
 
@@ -62,11 +78,12 @@ Requesting Talks!
 
 Greetings & Refreshments 
 
-Go Vendoring Tools and Updates by Daniel Theophanes
+Talk by Ed Muller will be speaking from his experience as a veteran Gopher at Heroku, and one of the maintainers of Godeps:
 
-Handling Go dependencies with vendoring has been a topic of this group's discussion multiple times, and with the proposed 1.5 /vendor directory the community is finally converging on a single standard. Daniel will be covering Go vendoring in general, the vendor-spec, and his own tool govendor!
+Lessons in Go: The do's and don'ts for writing Go.
 
-Open Discussion til boredom 
+
+Reverse Q&A; Open Discussion til boredom 
 
 .link http://is.gd/pdxgorqa
 
