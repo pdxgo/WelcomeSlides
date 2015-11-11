@@ -1,6 +1,6 @@
 PDX Go
 Talk Night
-9 Jun 2015
+09 Nov 2015
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -18,18 +18,8 @@ Curious Gophers in Portland Oregon
 
 * Talk Night Second Tuesdays for 2015
 
-Hack night(new) 4th Mondays
-
-- June 22nd for this month
-
-OSBridge June 23-26
-
-GopherCon! July 7-10
-
-OSCon July 20–24
-
-
-
+Hack night(newish) 4th Mondays
+- the 23rd for this month
 
 * Channels 
 
@@ -37,24 +27,36 @@ OSCon July 20–24
 freenode: #pdxgo
 .link https://twitter.com/pdxgolang @pdxgolang
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
+Slack: Gophers  #portland
 
 .image pdxgo/PDXGO.svg 346 300
 
 
 * Code of Conduct
-.link https://github.com/pdxgo/codeofconduct/blob/master/citizen_code_of_conduct.md PDXGo CoC
-- Don't be a jerk!
-- Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions towards others.
+.link https://github.com/pdxgo/codeofconduct PDXGo CoC now uses the official Golang code
+
+- Be friendly and welcoming
+- Be patient and respectful; be understanding of others
+- Be charitable: When we do disagree, try to understand why
+- Be thoughtful: Productive communication requires effort. Think about how your words will be interpreted
+- Avoid destructive behavior. eg: Snarking, Derailing conversation, Unconstructive criticism
+   - Insulting, demeaning, hateful, oppressive, exclusionary, or otherwise
+     hurtful remarks.
+   - Romantic or sexual commentary, remarks, or questions.
+   - Harassment (either in public or private; if someone asks you to stop
+     speaking to/at them, you must stop immediately)
+   - Flirting with offensive or sensitive issues
+   - “Microaggressions,” the smallactions that marginalize people in oppressed groups.
+- Don't just aim to be technically unimpeachable, aim to be your best self.
+   - If someone takes issue with something you said or did, resist the urge to
+     be defensive. Just stop doing what it was they complained about and
+     apologize.
 
 * Anouncments
 
-Gopher Interest Poll
-
-.link http://goo.gl/forms/qj5DPLZCvo PDXGo RFC 
+.link http://calagator.org/events/1250469294 Winter Coder Social December 15th
 
 Anyone like community organizing?
-
-#pdxgoorg
 
 Requesting Talks!
 
@@ -63,28 +65,30 @@ Requesting Talks!
 
 * Thank you Sponsors!
 
-- Culture Foundary: Pizza and Drinks!
+- Culture Foundry: Pizza and Drinks!
 .image pdxgo/culturefoundry.png
 
-- Esri R&D: Location!
-.image pdxgo/esri.png
-
-- Lytics: Meetup subscription
+- Lytics: Meetup subscription & Location
 .image pdxgo/lytics.png 100 175
+
+- Esri R&D: Usual Location
+.image pdxgo/esri.png
 
 * Schedule
 
 Greetings & Refreshments 
 
-Didip Kerbat's Talk on 
+Talk by Ed Muller will be speaking from his experience as a veteran Gopher at Heroku, and one of the maintainers of Godeps:
 
-.link https://github.com/go-bootstrap/go-bootstrap Go-Bootstrap, a skeleton web project for you to kick-ass!
+Lessons in Go: The do's and don'ts for writing Go.
 
-Time Permitting Questions and Open Discussion til ~8PM
+
+Reverse Q&A; Open Discussion til boredom 
 
 .link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
 
 Bailey's (Upper Lip) Taproom?
+
 
