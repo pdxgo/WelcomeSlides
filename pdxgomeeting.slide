@@ -1,6 +1,6 @@
 PDX Go
 Talk Night
-10 Nov 2015
+12 Jan 2016
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -16,18 +16,18 @@ joshroppo@gmail.com
 
 Curious Gophers in Portland Oregon
 
-* Talk Night Second Tuesdays for 2015
+* Talk Night Second Tuesdays
 
 Hack night 4th Mondays
-- the 23rd for this month
+- the 25th for this month
 
 * Channels 
 
 .link http://www.meetup.com/PDX-Go/ PDXGo Meetup 
+Slack: Gophers  #portland
 freenode: #pdxgo
 .link https://twitter.com/pdxgolang @pdxgolang
 .link https://groups.google.com/forum/#!forum/pdxgo Google Group: "pdxgo"
-Slack: Gophers  #portland
 
 .image pdxgo/PDXGO.svg 346 300
 
@@ -52,10 +52,11 @@ Slack: Gophers  #portland
 
 * Anouncments
 
-.link http://calagator.org/events/1250469294 Winter Coder Social December 15th
+Requesting Talks! Share your knowledge!
 
-Requesting Talks and Organizers!
+.link http://www.meetup.com/PDX-Go/events/227414867/ "Go In Action" Bookclub this Thursday
 
+.link http://gophergala.com/ Gopher Gala
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
 
@@ -74,17 +75,23 @@ Requesting Talks and Organizers!
 
 Greetings & Refreshments 
 
-Talk by Ed Muller will be speaking from his experience as a veteran Gopher at Heroku, and one of the maintainers of Godeps:
+Talk: Go and MySQL by Daniel Nichter 
 
-Lessons in Go: The do's and don'ts for writing Go.
+ Basic usage 
+ Interpolation 
+ Connection pools and leaks 
+ Scanning results and NULL 
+ Non-MySQL behaviors 
 
+Info will get you started and spare you some lessons and gotchas we learned from a year in production with Go and MySQL.
 
-Reverse Q&A; Open Discussion til boredom 
+Bailey's (Upper Lip) Taproom
+
+Reverse Q&A; Open Discussion 
 
 .link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
 
-Bailey's (Upper Lip) Taproom
 
 
