@@ -14,12 +14,13 @@ joshroppo@gmail.com
 
 .image pdxgo/PDXGO.svg 560 500
 
-Curious Gophers in Portland Oregon
+All inclusive group of curious Gophers in Portland Oregon
+- Share your Questions, Experience, and Pitfalls!
 
 * Talk Night Second Tuesdays
 
 Hack night 4th Mondays
-- the 25th for this month
+- the 22nd for this month
 
 * Channels 
 
@@ -54,9 +55,8 @@ freenode: #pdxgo
 
 Requesting Talks! Share your knowledge!
 
-.link http://www.meetup.com/PDX-Go/events/227414867/ "Go In Action" Bookclub this Thursday
+ "Go In Action" Bookclub on chapter 7 for next week!
 
-.link http://gophergala.com/ Gopher Gala
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
 
@@ -75,21 +75,17 @@ Requesting Talks! Share your knowledge!
 
 Greetings & Refreshments 
 
-Talk: Go and MySQL by Daniel Nichter 
+Party: Go 1.6 Release!
 
- Basic usage 
- Interpolation 
- Connection pools and leaks 
- Scanning results and NULL 
- Non-MySQL behaviors 
+  Review Release Note Slides put together by Dave Cheney!
 
-Info will get you started and spare you some lessons and gotchas we learned from a year in production with Go and MySQL.
+
+Kelsey Hightower 
+
+ Presenting demos of his favorite 1.6 features
 
 Bailey's (Upper Lip) Taproom
 
-Reverse Q&A; Open Discussion 
-
-.link http://is.gd/pdxgorqa
 
 .image pdxgo/PDXGO.svg 289 250
 
