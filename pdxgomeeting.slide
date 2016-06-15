@@ -1,6 +1,6 @@
 PDX Go
 Talk Night
-12 Jan 2016
+14 Jun 2016
 Tags: go, golang, Go, Golang, PDX, PDXGo, pdxgo, talknight
 
 PDX Go
@@ -17,13 +17,15 @@ joshroppo@gmail.com
 All inclusive group of curious Gophers in Portland Oregon
 - Share your Questions, Experience, and Pitfalls!
 
-* Talk Night Second Tuesdays
+* type PDXGo struct {
+    
+Talk Night: Second Tuesdays
 
-Hack night 4th Mondays
-- the 22nd for this month
+Hack night: 4th Mondays(interest?)
 
-Ongoing "Go In Action" Bookclub
-- Check the Meetup
+Bookclub: _The_Go_Programming_Language_ Maybe once the weather is worse?
+  
+}
 
 * Channels 
 
@@ -50,15 +52,12 @@ freenode: #pdxgo
    - Flirting with offensive or sensitive issues
    - “Microaggressions,” the smallactions that marginalize people in oppressed groups.
 - Don't just aim to be technically unimpeachable, aim to be your best self.
-   - If someone takes issue with something you said or did, resist the urge to
-     be defensive. Just stop doing what it was they complained about and
-     apologize.
 
 * Anouncments
 
-Requesting Talks! Share your knowledge!
+.link https://www.gophercon.com/ GopherCon in July! (11th-13th)
 
- "Go In Action" Bookclub on chapter 7 for next week!
+Requesting Talks! Share your knowledge!
 
 .image pdxgo/fancygopher.jpg 300 300
 .caption 'Fancy Gopher' by [[http://www.reneefrench.com][Renée French]]
@@ -76,23 +75,16 @@ Requesting Talks! Share your knowledge!
 
 * Schedule
 
-Greetings & Refreshments 
+Social time! Greetings & Refreshments provided by Culture Foundry!
 
-(Potential) Josh Roppo
-Who doesn't like/fears/loathes JMX?
-A tale of exorcising useful data from Java systems.
+A Tour of Camlistore by 
+.link https://twitter.com/edrex Eric Drechsel
 
+Eric will be giving a brief guided tour of the Camlistore codebase, followed by some group coding, Elixir Games-style. 
 
-Caleb Thompson
-Signing and Verifying Go Binaries with GPG
-
-What is GPG? Why should I sign my binaries? How can my users verify them? What’s this trust thing? What is Debian?
-
+We'll be hacking together a simple client app. Bonus points if you have the source checked out and building ahead of time: https://github.com/camlistore/camlistore
 
 Bailey's (Upper Lip) Taproom
 
-
 .image pdxgo/PDXGO.svg 289 250
-
-
 
